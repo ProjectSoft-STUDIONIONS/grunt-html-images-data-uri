@@ -1,6 +1,6 @@
 module.exports = function(grunt){
 	grunt.initConfig({
-		pugDataUri: {
+		htmlImagesDataUri: {
 			dist: {
 				src: ['test/html/*.html'],
 				dest: 'test',
@@ -12,5 +12,5 @@ module.exports = function(grunt){
 		}
 	});
 	grunt.loadTasks('tasks');
-	grunt.registerTask('default', 'pugDataUri');
+	grunt.registerTask('default', 'htmlImagesDataUri');
 }

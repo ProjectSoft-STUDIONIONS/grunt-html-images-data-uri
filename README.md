@@ -1,1 +1,1 @@
-# grunt-pug-data-uri
+# grunt-html-images-data-uri

@@ -1,5 +1,5 @@
 {
-	"name": "grunt-pug-data-uri",
+	"name": "grunt-html-images-data-uri",
 	"version": "1.0.0",
 	"description": "",
 	"main": "Gruntfile.js",
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ProjectSoft-STUDIONIONS/grunt-pug-data-uri.git"
+		"url": "git+https://github.com/ProjectSoft-STUDIONIONS/grunt-html-images-data-uri.git"
 	},
 	"author": {
 		"name": "ProjectSoft",
@@ -17,9 +17,9 @@
 	},
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/ProjectSoft-STUDIONIONS/grunt-pug-data-uri/issues"
+		"url": "https://github.com/ProjectSoft-STUDIONIONS/grunt-html-images-data-uri/issues"
 	},
-	"homepage": "https://github.com/ProjectSoft-STUDIONIONS/grunt-pug-data-uri#readme",
+	"homepage": "https://github.com/ProjectSoft-STUDIONIONS/grunt-html-images-data-uri#readme",
 	"bundleDependencies": false,
 	"deprecated": false,
 	"engines": {

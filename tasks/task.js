@@ -8,7 +8,7 @@ module.exports = function(grunt){
 		expandFiles = grunt.file.expandFiles ? grunt.file.expandFiles : function(files) {
 			return grunt.file.expand({filter: 'isFile'}, files);
 		};
-	grunt.registerMultiTask('pugDataUri', 'Convert your pug file image path!!', function() {
+	grunt.registerMultiTask('htmlImagesDataUri', 'Convert your pug file image path!!', function() {
 		var options = this.options(),
 			srcFiles = expandFiles(this.data.src),
 			destDir = path.resolve(this.data.dest),
