@@ -1,0 +1,6 @@
+*.ico
+*.ini
+*.db
+*.sublime*
+*-lock.*
+node_modules

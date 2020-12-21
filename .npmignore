@@ -1,0 +1,5 @@
+.gitignore
+*.sublime*
+.git
+*-lock.json
+test
